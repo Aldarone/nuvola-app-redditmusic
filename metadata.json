@@ -1,0 +1,12 @@
+{
+    "id": "redditmusic",
+    "name": "Music player for Reddit",
+    "maintainer_name": "Alda Marteau-Hardi",
+    "maintainer_link": "https://github.com/Aldarone/",
+    "version_major": 1,
+    "version_minor": 0,
+    "api_major": 3,
+    "api_minor": 0,
+    "categories": "Audiovideo;Audio;",
+    "home_url": "https://reddit.musicplayer.io/"
+}
