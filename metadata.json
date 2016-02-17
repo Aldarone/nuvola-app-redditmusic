@@ -9,5 +9,5 @@
     "api_minor": 0,
     "categories": "AudioVideo;Audio;",
     "home_url": "https://reddit.musicplayer.io/",
-    "allowed_uri": "^https?://(www.youtube.com|reddit.musicplayer.io)"
+    "allowed_uri": "^https?://(www\\.youtube\\.com|reddit\\.musicplayer\\.io|(ssl|www)\\.reddit\\.com)"
 }
